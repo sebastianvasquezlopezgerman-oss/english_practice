@@ -45,7 +45,9 @@ allowed_origin_regex = (
     r"10\.\d+\.\d+\.\d+|"
     r"172\.(1[6-9]|2\d|3[0-1])\.\d+\.\d+"
     r")(:\d+)?$|"
-    r"https://.*\.pages\.dev$"
+    r"https://.*\.pages\.dev$|"
+    r"https://.*\.trycloudflare\.com$|"
+    r"https://([a-zA-Z0-9-]+\.)*cloudflare\.com$"
 )
 
 app.add_middleware(
