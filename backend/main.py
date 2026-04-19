@@ -28,20 +28,29 @@ except ModuleNotFoundError:
 app = FastAPI(title="English Practice API")
 store = ExerciseStore(storage_path=os.getenv("EXERCISE_STORE_FILE"))
 
+
+def _parse_allowed_origins() -> list[str]:
+    """Parse comma-separated origins from env while keeping localhost default."""
+    defaults = ["http://localhost:5173"]
+    configured = os.getenv("CORS_ALLOW_ORIGINS", "")
+    extra = [origin.strip() for origin in configured.split(",") if origin.strip()]
+    return [*defaults, *extra]
+
 # Support localhost and common LAN ranges so students can open the app
 # from another device on the same network.
 allowed_origin_regex = (
-    r"http://("
+    r"https?://("
     r"localhost|127\.0\.0\.1|"
     r"192\.168\.\d+\.\d+|"
     r"10\.\d+\.\d+\.\d+|"
     r"172\.(1[6-9]|2\d|3[0-1])\.\d+\.\d+"
-    r")(:\d+)?$"
+    r")(:\d+)?$|"
+    r"https://.*\.pages\.dev$"
 )
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=_parse_allowed_origins(),
     allow_origin_regex=allowed_origin_regex,
     allow_credentials=True,
     allow_methods=["*"],
