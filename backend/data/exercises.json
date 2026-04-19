@@ -1,0 +1,149 @@
+[
+  {
+    "id": "d29cf5b2-f6e0-4791-a510-4d0eed249134",
+    "title": "Simple Present Tense",
+    "instructions": "Fill in each blank with the correct verb form.",
+    "items": [
+      {
+        "prompt_template": "She ___ to school every day.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "goes"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "They ___ soccer on Saturdays.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "play"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "So, But, Although Module",
+    "instructions": "Complete each sentence with the correct conjunction.",
+    "items": [
+      {
+        "prompt_template": "I wanted to go out, ___ it was raining.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "but"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "She studied hard, ___ she passed the exam.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "so"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ he was tired, he finished the work.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Although"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "The movie was long, ___ it was very entertaining.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "but",
+              "although"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "It was cold outside, ___ we stayed home.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "so"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ she doesn't like coffee, she drinks it every morning.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Although"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "He forgot his umbrella, ___ he got wet.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "so"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "I like pizza, ___ I prefer pasta.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "but"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ the test was difficult, most students passed.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Although"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "She was hungry, ___ she made a sandwich.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "so"
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "70b55ef8-5ce4-4392-aac7-4f1963408678"
+  }
+]
