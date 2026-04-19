@@ -1,34 +1,5 @@
 [
   {
-    "id": "d29cf5b2-f6e0-4791-a510-4d0eed249134",
-    "title": "Simple Present Tense",
-    "instructions": "Fill in each blank with the correct verb form.",
-    "items": [
-      {
-        "prompt_template": "She ___ to school every day.",
-        "blanks": [
-          {
-            "position": 0,
-            "accepted_answers": [
-              "goes"
-            ]
-          }
-        ]
-      },
-      {
-        "prompt_template": "They ___ soccer on Saturdays.",
-        "blanks": [
-          {
-            "position": 0,
-            "accepted_answers": [
-              "play"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "So, But, Although Module",
     "instructions": "Complete each sentence with the correct conjunction.",
     "items": [
@@ -145,5 +116,756 @@
       }
     ],
     "id": "70b55ef8-5ce4-4392-aac7-4f1963408678"
+  },
+  {
+    "title": "Questions & Word Order",
+    "instructions": "Fill in the blank with the correct auxiliary verb or question word to complete each question.",
+    "items": [
+      {
+        "prompt_template": "What ___ that noise?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "was"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Where ___ you born?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "were"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ do you live?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Where"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "What time ___ the meeting start?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "does",
+              "did"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ is your favourite colour?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "What"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "How ___ you feeling today?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "are"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ did you go last weekend?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Where"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Who ___ you talking to just now?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "were"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "How long ___ they been waiting?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "have"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ happened to your phone?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "What"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Why ___ she crying yesterday?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "was"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ often do you exercise?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "How"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "What ___ you do if you won the lottery?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "would"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ kind of music do you like?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "What"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "How ___ does it take to get to the airport?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "long"
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "147c0957-7629-451b-91ad-2c4ad7f43bff"
+  },
+  {
+    "title": "Questions & Word Order \u2013 Part 2",
+    "instructions": "Fill in the blank with the correct auxiliary verb or question word. Possible answers: was, were, do, does, did, would, have, What, Where, How, Why, Who.",
+    "items": [
+      {
+        "prompt_template": "What ___ that noise?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "was"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Where ___ you born?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "were"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ do you live?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Where"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "What time ___ the meeting start?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "does",
+              "did"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ is your favourite colour?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "What"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "How ___ you feeling today?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "are"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ did you go last weekend?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Where"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Who ___ you talking to just now?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "were"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "How long ___ they been waiting?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "have"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ happened to your phone?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "What"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Why ___ she crying yesterday?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "was"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ often do you exercise?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "How"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "What ___ you do if you won the lottery?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "would"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ kind of music do you like?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "What"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "How ___ does it take to get to the airport?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "long"
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "c500e39c-2663-492e-a149-84fdf6544ba3"
+  },
+  {
+    "title": "Questions & Word Order \u2013 Part 3",
+    "instructions": "Fill in the blank with the correct auxiliary verb or question word. Possible answers: was, were, do, does, did, would, have, has, What, Where, How, Why, Who, When, Which.",
+    "items": [
+      {
+        "prompt_template": "___ you ever been to Japan?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Have"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Which bus ___ you take to get to school?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "do",
+              "did"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ told you that story?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Who"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "When ___ the train arrive?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "does",
+              "did"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Why ___ he leave so early?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "did"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ is the nearest supermarket?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Where"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "How ___ siblings do you have?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "many"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ colour is your front door?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "What"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Who ___ she speaking with at the party?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "was"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ they finish the project on time?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Did"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "How ___ money did you spend yesterday?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "much"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "When ___ the last time you visited your grandparents?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "was"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ would you rather live, in the city or the countryside?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Where"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Which team ___ you support?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "do"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Why ___ the children so quiet this morning?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "were"
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "bccd2c96-36cc-4a6a-9874-28954555bf2a"
+  },
+  {
+    "title": "Present Simple",
+    "instructions": "Fill in the blank with the correct present simple form of the verb or the correct auxiliary (do, does, don't, doesn't). Possible answers: work, works, live, lives, speak, speaks, go, goes, have, has, study, studies, finish, finishes, do, does, don't, doesn't, always, never, usually, often, hardly ever.",
+    "items": [
+      {
+        "prompt_template": "I usually ___ at home.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "work"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "My brother ___ in the city centre.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "works"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "My parents ___ live near here.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "don't"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "It ___ often rain here.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "doesn't"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ you speak French?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Do"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "___ he like pop music?",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "Does"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Yes, I ___. / No, I don't.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "do"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "Yes, he ___. / No, he doesn't.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "does"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "She ___ study at weekends.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "doesn't"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "He ___ always late for work.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "is"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "We often go out on Friday ___.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "night"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "She gets up early ___ day.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "every"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "We have English classes ___ a week.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "twice"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "I'm ___ ill.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "never"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "She ___ usually study at weekends.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "doesn't"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "She's ___ ill. NOT She's ill never.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "never"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "It ___ rains. (use adverb of frequency)",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "never",
+              "hardly ever",
+              "sometimes",
+              "often",
+              "always"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "He ___ to work every day.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "goes"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "The class ___ at 9 o'clock.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "finishes"
+            ]
+          }
+        ]
+      },
+      {
+        "prompt_template": "She ___ English and French.",
+        "blanks": [
+          {
+            "position": 0,
+            "accepted_answers": [
+              "studies"
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "b30bf953-d286-4f77-b049-df042c3842ce"
   }
 ]
